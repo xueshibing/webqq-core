@@ -46,7 +46,7 @@ public interface QQConstants {
     /**
      * Constant <code>USER_AGENT="IQQ Client/0.1 dev"</code>
      */
-    public static final String USER_AGENT = "IQQ Client/1.2 dev";
+    public static final String USER_AGENT = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36";
     /**
      * Constant <code>URL_CHECK_VERIFY="https://ssl.ptlogin2.qq.com/check?uin={"{trunked}</code>
      */
